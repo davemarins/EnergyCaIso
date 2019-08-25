@@ -1,6 +1,7 @@
 import re
 import csv
 import requests
+import matplotlib.pyplot as plt
 from scipy.interpolate import interp1d
 from scipy.integrate import quad
 
@@ -25,6 +26,13 @@ min_energy_grid = 999999999999
 min_energy_grid_date = ""
 
 yearly_energy = 0
+
+# 12 x 1660MW for a day will produce 478080 MWh
+# We'll have 6 days when production > demand, but
+# worst case will require 2.5GW 15.7GWh hydro
+# pumped storage, so it's scalable
+# Total out-of-demand production 58.9GWh
+# 3GW 65GWh should be enough
 
 for i in range(12):
     monthly_energy = 0
@@ -90,6 +98,11 @@ for i in range(12):
                     Y.append(int(demand))
             print("Power demand between " + str(min_power_grid_local) + " and " + str(max_power_grid_local) + " MW")
             f = interp1d(X, Y, kind='cubic')
+            # worst case scenario for production > demand
+            if date == "20190527":
+                plt.plot(X, Y, 'o', X, f(X), '--')
+                plt.legend(['data', 'cubic'], loc='best')
+                plt.show()
             energy = quad(f, 0, 23.83)[0]
             monthly_energy += energy
             yearly_energy += energy
@@ -100,6 +113,10 @@ for i in range(12):
                 min_energy_grid = energy
                 min_energy_grid_date = date
             print("Daily energy request for " + date + " : " + str(energy) + " MWh")
+            date_num_reactors = [date, energy, str(int(min_power_grid_local/1660)), str(energy - 478080)]
+            file_out = open('output.csv', 'a')
+            writer = csv.writer(file_out)
+            writer.writerow(date_num_reactors)
     print("Monthly min power demand for month number " + months[i] + " " + str(min_power_grid_month) + " MW at date " + min_power_grid_month_date)
     reactors_power = int(min_power_grid_month/1660)
     print("Required reactors for min power: " + str(reactors_power) + " with power of " + str(reactors_power*1660) + " MW")
