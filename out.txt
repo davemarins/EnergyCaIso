@@ -1,0 +1,791 @@
+Power demand between 25601 and 43873 MW
+Daily energy request for 20180801 : 829926.1781257509 MWh
+Power demand between 25861 and 42828 MW
+Daily energy request for 20180802 : 817448.9744505176 MWh
+Power demand between 25258 and 43085 MW
+Daily energy request for 20180803 : 811762.2332064756 MWh
+Power demand between 24851 and 39965 MW
+Daily energy request for 20180804 : 756197.560739097 MWh
+Power demand between 23214 and 39033 MW
+Daily energy request for 20180805 : 715742.4922745615 MWh
+Power demand between 23859 and 44400 MW
+Daily energy request for 20180806 : 807201.5397771385 MWh
+Power demand between 25368 and 44055 MW
+Daily energy request for 20180807 : 825829.5878647652 MWh
+Power demand between 25616 and 43988 MW
+Daily energy request for 20180808 : 825479.9193956851 MWh
+Power demand between 25397 and 45011 MW
+Daily energy request for 20180809 : 844722.4375473749 MWh
+Power demand between 25999 and 44019 MW
+Daily energy request for 20180810 : 835322.5759660441 MWh
+Power demand between 25167 and 40817 MW
+Daily energy request for 20180811 : 774664.4136702872 MWh
+Power demand between 24466 and 39429 MW
+Daily energy request for 20180812 : 740784.0565981398 MWh
+Power demand between 24049 and 40292 MW
+Daily energy request for 20180813 : 768660.4268226885 MWh
+Power demand between 24024 and 38891 MW
+Daily energy request for 20180814 : 754223.2584734106 MWh
+Power demand between 24588 and 39780 MW
+Daily energy request for 20180815 : 766481.5405271171 MWh
+Power demand between 24590 and 41206 MW
+Daily energy request for 20180816 : 787163.129086843 MWh
+Power demand between 25151 and 42988 MW
+Daily energy request for 20180817 : 808518.8145393827 MWh
+Power demand between 24903 and 40376 MW
+Daily energy request for 20180818 : 759048.95417205 MWh
+Power demand between 23432 and 39522 MW
+Daily energy request for 20180819 : 723889.0201847373 MWh
+Power demand between 24194 and 40136 MW
+Daily energy request for 20180820 : 767885.8637035104 MWh
+Power demand between 24164 and 38839 MW
+Daily energy request for 20180821 : 751010.249373352 MWh
+Power demand between 24089 and 38793 MW
+Daily energy request for 20180822 : 751217.2300316864 MWh
+Power demand between 23760 and 37828 MW
+Daily energy request for 20180823 : 736379.7582542839 MWh
+Power demand between 23322 and 35438 MW
+Daily energy request for 20180824 : 706400.2272613338 MWh
+Power demand between 22755 and 33429 MW
+Daily energy request for 20180825 : 657586.0457229121 MWh
+Power demand between 22009 and 32951 MW
+Daily energy request for 20180826 : 630733.1419078071 MWh
+Power demand between 21752 and 35129 MW
+Daily energy request for 20180827 : 684105.2050937713 MWh
+Power demand between 22625 and 34832 MW
+Daily energy request for 20180828 : 688844.9135277421 MWh
+Power demand between 22706 and 37020 MW
+Daily energy request for 20180829 : 710599.6044037926 MWh
+Power demand between 23054 and 35821 MW
+Daily energy request for 20180830 : 706217.5066924157 MWh
+Power demand between 22708 and 35777 MW
+Daily energy request for 20180831 : 694403.7782099455 MWh
+Monthly min power demand for month number 08 21752 MW at date 20180827
+Required reactors for min power: 13 with power of 21580 MW
+Monthly energy demand for month number 08 23438450.637604624
+Power demand between 22261 and 32504 MW
+Daily energy request for 20180901 : 635425.3282040529 MWh
+Power demand between 21609 and 32021 MW
+Daily energy request for 20180902 : 614560.1674043243 MWh
+Power demand between 21555 and 33639 MW
+Daily energy request for 20180903 : 639994.3677940955 MWh
+Power demand between 22195 and 36139 MW
+Daily energy request for 20180904 : 702197.6398642878 MWh
+Power demand between 22920 and 35876 MW
+Daily energy request for 20180905 : 702786.3960836933 MWh
+Power demand between 22540 and 36096 MW
+Daily energy request for 20180906 : 699830.4947105853 MWh
+Power demand between 22556 and 38685 MW
+Daily energy request for 20180907 : 722297.3514951668 MWh
+Power demand between 22724 and 37955 MW
+Daily energy request for 20180908 : 698828.9195174351 MWh
+Power demand between 21795 and 36317 MW
+Daily energy request for 20180909 : 663108.6593440142 MWh
+Power demand between 21760 and 37770 MW
+Daily energy request for 20180910 : 704704.9705952664 MWh
+Power demand between 22174 and 35683 MW
+Daily energy request for 20180911 : 687664.3490584138 MWh
+Power demand between 22243 and 33698 MW
+Daily energy request for 20180912 : 670359.4469702179 MWh
+Power demand between 21672 and 34075 MW
+Daily energy request for 20180913 : 666735.290737325 MWh
+Power demand between 21672 and 35167 MW
+Daily energy request for 20180914 : 676121.6573562868 MWh
+Power demand between 21824 and 35757 MW
+Daily energy request for 20180915 : 622836.6022540609 MWh
+Power demand between 20827 and 31866 MW
+Daily energy request for 20180916 : 597941.5718961463 MWh
+Power demand between 20733 and 33749 MW
+Daily energy request for 20180917 : 652729.4766029508 MWh
+Power demand between 21340 and 32876 MW
+Daily energy request for 20180918 : 648416.623795813 MWh
+Power demand between 21499 and 33183 MW
+Daily energy request for 20180919 : 649729.2848042911 MWh
+Power demand between 21451 and 34749 MW
+Daily energy request for 20180920 : 670333.2097231728 MWh
+Power demand between 21917 and 35264 MW
+Daily energy request for 20180921 : 680865.631519849 MWh
+Power demand between 21762 and 33500 MW
+Daily energy request for 20180922 : 642186.572271428 MWh
+Power demand between 21057 and 31838 MW
+Daily energy request for 20180923 : 609589.5777438733 MWh
+Power demand between 20934 and 33056 MW
+Daily energy request for 20180924 : 652708.7166983538 MWh
+Power demand between 21080 and 33088 MW
+Daily energy request for 20180925 : 647528.9980111462 MWh
+Power demand between 21563 and 35353 MW
+Daily energy request for 20180926 : 675980.2719003237 MWh
+Power demand between 21721 and 36115 MW
+Daily energy request for 20180927 : 692399.3085783231 MWh
+Power demand between 22154 and 33733 MW
+Daily energy request for 20180928 : 672342.2529675518 MWh
+Power demand between 21490 and 29724 MW
+Daily energy request for 20180929 : 600246.0542099501 MWh
+Power demand between 20434 and 30849 MW
+Daily energy request for 20180930 : 587726.298224801 MWh
+Monthly min power demand for month number 09 20434 MW at date 20180930
+Required reactors for min power: 12 with power of 19920 MW
+Monthly energy demand for month number 09 19788175.490337197
+Power demand between 20938 and 34859 MW
+Daily energy request for 20181001 : 683773.0283130287 MWh
+Power demand between 21805 and 32332 MW
+Daily energy request for 20181002 : 666309.5757420231 MWh
+Power demand between 21861 and 31291 MW
+Daily energy request for 20181003 : 649874.4711286866 MWh
+Power demand between 21410 and 30463 MW
+Daily energy request for 20181004 : 628124.72081207 MWh
+Power demand between 20710 and 29901 MW
+Daily energy request for 20181005 : 609651.1889313085 MWh
+Power demand between 20562 and 27073 MW
+Daily energy request for 20181006 : 551827.1209011554 MWh
+Power demand between 19599 and 27710 MW
+Daily energy request for 20181007 : 530773.2040023914 MWh
+Power demand between 20197 and 30583 MW
+Daily energy request for 20181008 : 603851.2464535986 MWh
+Power demand between 20742 and 30022 MW
+Daily energy request for 20181009 : 605671.3017592891 MWh
+Power demand between 20463 and 29461 MW
+Daily energy request for 20181010 : 593273.9425879185 MWh
+Power demand between 20321 and 29315 MW
+Daily energy request for 20181011 : 593605.8817700241 MWh
+Power demand between 20215 and 29363 MW
+Daily energy request for 20181012 : 596264.1732191871 MWh
+Power demand between 19916 and 26470 MW
+Daily energy request for 20181013 : 539580.1182597085 MWh
+Power demand between 19012 and 26720 MW
+Daily energy request for 20181014 : 511518.03927791404 MWh
+Power demand between 18955 and 29148 MW
+Daily energy request for 20181015 : 564980.6418003616 MWh
+Power demand between 19438 and 29310 MW
+Daily energy request for 20181016 : 573984.3480880986 MWh
+Power demand between 19693 and 29535 MW
+Daily energy request for 20181017 : 580466.0979757265 MWh
+Power demand between 19884 and 29974 MW
+Daily energy request for 20181018 : 591875.581184396 MWh
+Power demand between 19993 and 30102 MW
+Daily energy request for 20181019 : 599997.6804411237 MWh
+Power demand between 19739 and 28379 MW
+Daily energy request for 20181020 : 554525.4428967276 MWh
+Power demand between 19274 and 27890 MW
+Daily energy request for 20181021 : 529799.9676775427 MWh
+Power demand between 19152 and 29600 MW
+Daily energy request for 20181022 : 581275.6851189756 MWh
+Power demand between 20003 and 29866 MW
+Daily energy request for 20181023 : 594682.0229983951 MWh
+Power demand between 20074 and 30376 MW
+Daily energy request for 20181024 : 599972.3042141753 MWh
+Power demand between 20713 and 30481 MW
+Daily energy request for 20181025 : 610324.4059433554 MWh
+Power demand between 20583 and 30132 MW
+Daily energy request for 20181026 : 607820.9399234031 MWh
+Power demand between 20234 and 28466 MW
+Daily energy request for 20181027 : 565191.0605356348 MWh
+Power demand between 19450 and 27681 MW
+Daily energy request for 20181028 : 534764.3203367018 MWh
+Power demand between 19379 and 29793 MW
+Daily energy request for 20181029 : 587774.1363770417 MWh
+Power demand between 20132 and 29281 MW
+Daily energy request for 20181030 : 588479.7149532061 MWh
+Power demand between 20106 and 28373 MW
+Daily energy request for 20181031 : 586529.957638923 MWh
+Monthly min power demand for month number 10 18955 MW at date 20181015
+Required reactors for min power: 11 with power of 18260 MW
+Monthly energy demand for month number 10 18216542.32126209
+Power demand between 19999 and 29887 MW
+Daily energy request for 20181101 : 597824.1642612085 MWh
+Power demand between 20374 and 30064 MW
+Daily energy request for 20181102 : 605671.6423840384 MWh
+Power demand between 19928 and 27906 MW
+Daily energy request for 20181103 : 554601.0644050413 MWh
+Power demand between 19084 and 27729 MW
+Daily energy request for 20181104 : 532902.4375218629 MWh
+Power demand between 19123 and 29670 MW
+Daily energy request for 20181105 : 579926.4307186027 MWh
+Power demand between 19416 and 29334 MW
+Daily energy request for 20181106 : 576442.5783362926 MWh
+Power demand between 19540 and 29364 MW
+Daily energy request for 20181107 : 580680.8151059353 MWh
+Power demand between 19419 and 29131 MW
+Daily energy request for 20181108 : 573763.6501215288 MWh
+Power demand between 19631 and 28521 MW
+Daily energy request for 20181109 : 572486.445641167 MWh
+Power demand between 19952 and 26403 MW
+Daily energy request for 20181110 : 538739.7334971158 MWh
+Power demand between 19417 and 26139 MW
+Daily energy request for 20181111 : 515172.3013636817 MWh
+Power demand between 19292 and 29068 MW
+Daily energy request for 20181112 : 572459.8812222988 MWh
+Power demand between 20044 and 29124 MW
+Daily energy request for 20181113 : 589050.0068678271 MWh
+Power demand between 20327 and 29584 MW
+Daily energy request for 20181114 : 593628.309350321 MWh
+Power demand between 20182 and 28967 MW
+Daily energy request for 20181115 : 588731.540657981 MWh
+Power demand between 20397 and 28831 MW
+Daily energy request for 20181116 : 589460.4416737417 MWh
+Power demand between 20144 and 26762 MW
+Daily energy request for 20181117 : 545279.0382634727 MWh
+Power demand between 19624 and 26454 MW
+Daily energy request for 20181118 : 526624.051331136 MWh
+Power demand between 19734 and 29121 MW
+Daily energy request for 20181119 : 587564.9090030716 MWh
+Power demand between 20382 and 28902 MW
+Daily energy request for 20181120 : 584996.3432856048 MWh
+Power demand between 20077 and 28436 MW
+Daily energy request for 20181121 : 583490.5605060972 MWh
+Power demand between 18959 and 23688 MW
+Daily energy request for 20181122 : 501592.0395681056 MWh
+Power demand between 18378 and 26031 MW
+Daily energy request for 20181123 : 520443.83282208943 MWh
+Power demand between 18585 and 25606 MW
+Daily energy request for 20181124 : 512532.04791695025 MWh
+Power demand between 18515 and 26552 MW
+Daily energy request for 20181125 : 507523.3556492191 MWh
+Power demand between 19000 and 29306 MW
+Daily energy request for 20181126 : 572675.63197899 MWh
+demand = int(row[3]) did not contain a number in date 20181127 at row 288
+demand = int(row[3]) did not contain a number in date 20181127 at row 289
+Power demand between 19712 and 29154 MW
+Daily energy request for 20181127 : 583130.0382830551 MWh
+Power demand between 19732 and 29126 MW
+Daily energy request for 20181128 : 583346.1566712979 MWh
+Power demand between 19731 and 29018 MW
+Daily energy request for 20181129 : 588577.3724486151 MWh
+Power demand between 19658 and 28222 MW
+Daily energy request for 20181130 : 569973.3853487627 MWh
+Monthly min power demand for month number 11 18378 MW at date 20181123
+Required reactors for min power: 11 with power of 18260 MW
+Monthly energy demand for month number 11 16929290.20620512
+Power demand between 19929 and 26967 MW
+Daily energy request for 20181201 : 538117.723951421 MWh
+Power demand between 19278 and 27533 MW
+Daily energy request for 20181202 : 523435.98318965995 MWh
+Power demand between 19792 and 29637 MW
+Daily energy request for 20181203 : 580650.0395055902 MWh
+Power demand between 20053 and 29464 MW
+Daily energy request for 20181204 : 593184.2785169667 MWh
+Power demand between 19816 and 30083 MW
+Daily energy request for 20181205 : 603856.1254464028 MWh
+Power demand between 19920 and 29708 MW
+Daily energy request for 20181206 : 599769.3776805724 MWh
+Power demand between 20220 and 28559 MW
+Daily energy request for 20181207 : 577223.4230865465 MWh
+Power demand between 19802 and 26612 MW
+Daily energy request for 20181208 : 532842.4376718021 MWh
+Power demand between 19023 and 27302 MW
+Daily energy request for 20181209 : 528557.5339452628 MWh
+Power demand between 19173 and 29925 MW
+Daily energy request for 20181210 : 591134.3457803911 MWh
+Power demand between 20191 and 29656 MW
+Daily energy request for 20181211 : 586580.9086837397 MWh
+Power demand between 20117 and 29461 MW
+Daily energy request for 20181212 : 583346.2966948457 MWh
+Power demand between 20225 and 29208 MW
+Daily energy request for 20181213 : 582737.3388904365 MWh
+Power demand between 19880 and 28945 MW
+Daily energy request for 20181214 : 593730.200296619 MWh
+Power demand between 19689 and 26637 MW
+Daily energy request for 20181215 : 533949.701861677 MWh
+Power demand between 19181 and 27308 MW
+Daily energy request for 20181216 : 528637.7539827846 MWh
+Power demand between 18939 and 29201 MW
+Daily energy request for 20181217 : 569346.187641991 MWh
+Power demand between 19544 and 29021 MW
+Daily energy request for 20181218 : 573642.2427366261 MWh
+Power demand between 19711 and 29162 MW
+Daily energy request for 20181219 : 578868.4150087441 MWh
+Power demand between 19986 and 29222 MW
+Daily energy request for 20181220 : 584932.4184447924 MWh
+Power demand between 19659 and 28237 MW
+Daily energy request for 20181221 : 573064.7718613175 MWh
+Power demand between 19346 and 26594 MW
+Daily energy request for 20181222 : 532374.5882190388 MWh
+Power demand between 18827 and 26225 MW
+Daily energy request for 20181223 : 516285.54397821863 MWh
+Power demand between 18691 and 26047 MW
+Daily energy request for 20181224 : 521188.5372762408 MWh
+Power demand between 18192 and 24251 MW
+Daily energy request for 20181225 : 487648.67355625087 MWh
+Power demand between 18608 and 28094 MW
+Daily energy request for 20181226 : 546812.6938534416 MWh
+Power demand between 19715 and 28652 MW
+Daily energy request for 20181227 : 563786.3517426858 MWh
+Power demand between 20473 and 28798 MW
+Daily energy request for 20181228 : 569420.1891421379 MWh
+Power demand between 19822 and 27106 MW
+Daily energy request for 20181229 : 541313.187757114 MWh
+Power demand between 18943 and 26497 MW
+Daily energy request for 20181230 : 522299.1273108991 MWh
+Power demand between 19437 and 27933 MW
+Daily energy request for 20181231 : 546950.7284546777 MWh
+Monthly min power demand for month number 12 18192 MW at date 20181225
+Required reactors for min power: 10 with power of 16600 MW
+Monthly energy demand for month number 12 17305687.126168896
+Power demand between 18523 and 26929 MW
+Daily energy request for 20190101 : 519779.8721326228 MWh
+Power demand between 20069 and 29099 MW
+Daily energy request for 20190102 : 575345.993691734 MWh
+Power demand between 21158 and 29039 MW
+Daily energy request for 20190103 : 590138.2266765621 MWh
+Power demand between 21047 and 28465 MW
+Daily energy request for 20190104 : 582541.1603015624 MWh
+Power demand between 20188 and 27601 MW
+Daily energy request for 20190105 : 568951.6284694552 MWh
+Power demand between 19473 and 27504 MW
+Daily energy request for 20190106 : 537127.4607264451 MWh
+Power demand between 19302 and 28702 MW
+Daily energy request for 20190107 : 572732.8175893283 MWh
+Power demand between 19618 and 28296 MW
+Daily energy request for 20190108 : 572551.8400628672 MWh
+Power demand between 19474 and 28270 MW
+Daily energy request for 20190109 : 568745.9244660035 MWh
+Power demand between 19486 and 27951 MW
+Daily energy request for 20190110 : 565589.5794294281 MWh
+Power demand between 19722 and 27923 MW
+Daily energy request for 20190111 : 571867.5001022039 MWh
+Power demand between 19144 and 25761 MW
+Daily energy request for 20190112 : 521187.93614994874 MWh
+Power demand between 18845 and 26273 MW
+Daily energy request for 20190113 : 507431.4887020199 MWh
+Power demand between 18591 and 29553 MW
+Daily energy request for 20190114 : 590806.3034296191 MWh
+Power demand between 19354 and 29384 MW
+Daily energy request for 20190115 : 591550.1827079639 MWh
+Power demand between 19252 and 28795 MW
+Daily energy request for 20190116 : 579409.0086801893 MWh
+Power demand between 18869 and 28415 MW
+Daily energy request for 20190117 : 577421.2510426157 MWh
+Power demand between 18987 and 27126 MW
+Daily energy request for 20190118 : 550896.2694028072 MWh
+Power demand between 18759 and 24887 MW
+Daily energy request for 20190119 : 500028.37049991055 MWh
+Power demand between 17865 and 25097 MW
+Daily energy request for 20190120 : 491385.1246029229 MWh
+Power demand between 18320 and 28098 MW
+Daily energy request for 20190121 : 539217.4612916722 MWh
+Power demand between 19669 and 28411 MW
+Daily energy request for 20190122 : 564273.8053512904 MWh
+Power demand between 20095 and 28076 MW
+Daily energy request for 20190123 : 565106.0995554487 MWh
+Power demand between 19832 and 27714 MW
+Daily energy request for 20190124 : 561019.9218808657 MWh
+Power demand between 19490 and 27289 MW
+Daily energy request for 20190125 : 551369.5951608332 MWh
+Power demand between 18902 and 25197 MW
+Daily energy request for 20190126 : 506329.79076632834 MWh
+Power demand between 17507 and 25251 MW
+Daily energy request for 20190127 : 480874.4274676237 MWh
+Power demand between 18239 and 27654 MW
+Daily energy request for 20190128 : 552256.3852893753 MWh
+Power demand between 19033 and 27538 MW
+Daily energy request for 20190129 : 551958.8550523431 MWh
+Power demand between 18780 and 27545 MW
+Daily energy request for 20190130 : 548444.672114898 MWh
+Power demand between 18769 and 27806 MW
+Daily energy request for 20190131 : 559181.9694594931 MWh
+Monthly min power demand for month number 01 17507 MW at date 20190127
+Required reactors for min power: 10 with power of 16600 MW
+Monthly energy demand for month number 01 17115520.922256384
+Power demand between 18999 and 27444 MW
+Daily energy request for 20190201 : 557436.6042571842 MWh
+Power demand between 18709 and 26055 MW
+Daily energy request for 20190202 : 530221.5382887922 MWh
+Power demand between 18554 and 25005 MW
+Daily energy request for 20190203 : 511345.0533050399 MWh
+Power demand between 18745 and 28834 MW
+Daily energy request for 20190204 : 575062.0862270598 MWh
+Power demand between 20114 and 29093 MW
+Daily energy request for 20190205 : 580721.20099737 MWh
+Power demand between 21058 and 28956 MW
+Daily energy request for 20190206 : 581306.0832460927 MWh
+Power demand between 21254 and 28602 MW
+Daily energy request for 20190207 : 584093.5920021146 MWh
+Power demand between 20696 and 27950 MW
+Daily energy request for 20190208 : 575815.0427493886 MWh
+Power demand between 20027 and 26102 MW
+Daily energy request for 20190209 : 532981.4533800241 MWh
+Power demand between 19419 and 26883 MW
+Daily energy request for 20190210 : 523620.5826346334 MWh
+Power demand between 20220 and 28967 MW
+Daily energy request for 20190211 : 571007.6983839861 MWh
+Power demand between 20652 and 29000 MW
+Daily energy request for 20190212 : 590902.792842182 MWh
+Power demand between 19790 and 28980 MW
+Daily energy request for 20190213 : 592958.2643036147 MWh
+demand = int(row[3]) did not contain a number in date 20190214 at row 288
+demand = int(row[3]) did not contain a number in date 20190214 at row 289
+Power demand between 19606 and 27970 MW
+Daily energy request for 20190214 : 577903.6413407277 MWh
+Power demand between 19488 and 28067 MW
+Daily energy request for 20190215 : 563841.0938312768 MWh
+Power demand between 19430 and 25831 MW
+Daily energy request for 20190216 : 518957.3869399246 MWh
+Power demand between 19193 and 26293 MW
+Daily energy request for 20190217 : 511203.61188991443 MWh
+Power demand between 20199 and 28410 MW
+Daily energy request for 20190218 : 555356.6651862749 MWh
+Power demand between 21084 and 29040 MW
+Daily energy request for 20190219 : 579054.4410752254 MWh
+Power demand between 20932 and 29860 MW
+Daily energy request for 20190220 : 597902.8845229406 MWh
+Power demand between 21002 and 29602 MW
+Daily energy request for 20190221 : 593647.2656195423 MWh
+Power demand between 20976 and 27868 MW
+Daily energy request for 20190222 : 572411.1880845913 MWh
+Power demand between 19281 and 25895 MW
+Daily energy request for 20190223 : 529078.1274783266 MWh
+Power demand between 17494 and 25701 MW
+Daily energy request for 20190224 : 495785.3770434739 MWh
+Power demand between 19286 and 28285 MW
+Daily energy request for 20190225 : 556550.5680537635 MWh
+Power demand between 19845 and 28331 MW
+Daily energy request for 20190226 : 567223.0115881072 MWh
+Power demand between 19643 and 27397 MW
+Daily energy request for 20190227 : 553675.9004594518 MWh
+Power demand between 19399 and 27366 MW
+Daily energy request for 20190228 : 541846.8996703296 MWh
+Monthly min power demand for month number 02 17494 MW at date 20190224
+Required reactors for min power: 10 with power of 16600 MW
+Monthly energy demand for month number 02 15621910.055401351
+Power demand between 18961 and 26596 MW
+Daily energy request for 20190301 : 540015.7103834278 MWh
+Power demand between 18961 and 25359 MW
+Daily energy request for 20190302 : 516708.7539013715 MWh
+Power demand between 18121 and 25270 MW
+Daily energy request for 20190303 : 486041.9369861356 MWh
+Power demand between 18437 and 27685 MW
+Daily energy request for 20190304 : 546810.1731739275 MWh
+Power demand between 19772 and 28163 MW
+Daily energy request for 20190305 : 572671.3052871691 MWh
+Power demand between 19499 and 28242 MW
+Daily energy request for 20190306 : 571267.4349038565 MWh
+Power demand between 19565 and 27935 MW
+Daily energy request for 20190307 : 558013.1293613202 MWh
+Power demand between 20039 and 27711 MW
+Daily energy request for 20190308 : 552268.942502972 MWh
+Power demand between 20048 and 26108 MW
+Daily energy request for 20190309 : 525714.0861021999 MWh
+demand = int(row[3]) did not contain a number in date 20190310 at row 26
+demand = int(row[3]) did not contain a number in date 20190310 at row 27
+demand = int(row[3]) did not contain a number in date 20190310 at row 28
+demand = int(row[3]) did not contain a number in date 20190310 at row 29
+demand = int(row[3]) did not contain a number in date 20190310 at row 30
+demand = int(row[3]) did not contain a number in date 20190310 at row 31
+demand = int(row[3]) did not contain a number in date 20190310 at row 32
+demand = int(row[3]) did not contain a number in date 20190310 at row 33
+demand = int(row[3]) did not contain a number in date 20190310 at row 34
+demand = int(row[3]) did not contain a number in date 20190310 at row 35
+demand = int(row[3]) did not contain a number in date 20190310 at row 36
+demand = int(row[3]) did not contain a number in date 20190310 at row 37
+Power demand between 18618 and 26110 MW
+Daily energy request for 20190310 : 504984.9945002456 MWh
+Power demand between 19712 and 27778 MW
+Daily energy request for 20190311 : 564058.7601664106 MWh
+Power demand between 19794 and 27568 MW
+Daily energy request for 20190312 : 547334.1368033777 MWh
+Power demand between 19309 and 26508 MW
+Daily energy request for 20190313 : 525472.9915020161 MWh
+Power demand between 19859 and 26919 MW
+Daily energy request for 20190314 : 541326.2856201527 MWh
+Power demand between 19410 and 25663 MW
+Daily energy request for 20190315 : 522196.4611880559 MWh
+Power demand between 18062 and 25108 MW
+Daily energy request for 20190316 : 492925.59685515106 MWh
+Power demand between 17336 and 25651 MW
+Daily energy request for 20190317 : 478910.7632176472 MWh
+Power demand between 18631 and 27447 MW
+Daily energy request for 20190318 : 537389.4742884929 MWh
+Power demand between 19040 and 27029 MW
+Daily energy request for 20190319 : 545926.8721713697 MWh
+Power demand between 19016 and 26750 MW
+Daily energy request for 20190320 : 547423.5190961628 MWh
+Power demand between 19255 and 26702 MW
+Daily energy request for 20190321 : 539528.1155738329 MWh
+Power demand between 19060 and 26295 MW
+Daily energy request for 20190322 : 540818.9314790966 MWh
+Power demand between 17897 and 24496 MW
+Daily energy request for 20190323 : 490169.94237380294 MWh
+Power demand between 16190 and 24801 MW
+Daily energy request for 20190324 : 464902.09974706604 MWh
+Power demand between 18471 and 27417 MW
+Daily energy request for 20190325 : 540743.8503774224 MWh
+Power demand between 18856 and 26799 MW
+Daily energy request for 20190326 : 536612.3228492865 MWh
+Power demand between 18995 and 26877 MW
+Daily energy request for 20190327 : 542835.7922723552 MWh
+Power demand between 19201 and 26694 MW
+Daily energy request for 20190328 : 537185.9627794162 MWh
+Power demand between 19143 and 25968 MW
+Daily energy request for 20190329 : 525391.3891063415 MWh
+Power demand between 17584 and 24760 MW
+Daily energy request for 20190330 : 485139.7861267479 MWh
+Power demand between 17151 and 25539 MW
+Daily energy request for 20190331 : 475623.7328779679 MWh
+Monthly min power demand for month number 03 16190 MW at date 20190324
+Required reactors for min power: 9 with power of 14940 MW
+Monthly energy demand for month number 03 16356413.253574794
+Power demand between 18416 and 27718 MW
+Daily energy request for 20190401 : 550984.250245614 MWh
+Power demand between 19143 and 27110 MW
+Daily energy request for 20190402 : 545297.8564094589 MWh
+Power demand between 18942 and 26930 MW
+Daily energy request for 20190403 : 547529.3679095026 MWh
+Power demand between 19379 and 26797 MW
+Daily energy request for 20190404 : 551090.6843543211 MWh
+Power demand between 18877 and 25944 MW
+Daily energy request for 20190405 : 541720.2388284476 MWh
+Power demand between 18138 and 24922 MW
+Daily energy request for 20190406 : 489242.28929777705 MWh
+Power demand between 17887 and 26067 MW
+Daily energy request for 20190407 : 483179.63804009143 MWh
+Power demand between 18438 and 28458 MW
+Daily energy request for 20190408 : 561490.3324219865 MWh
+Power demand between 19299 and 26710 MW
+Daily energy request for 20190409 : 531462.0027000766 MWh
+Power demand between 19163 and 27209 MW
+Daily energy request for 20190410 : 534290.5998545021 MWh
+Power demand between 19536 and 27082 MW
+Daily energy request for 20190411 : 548796.3458543062 MWh
+Power demand between 19405 and 26367 MW
+Daily energy request for 20190412 : 534561.7959536698 MWh
+Power demand between 18696 and 25127 MW
+Daily energy request for 20190413 : 493976.31477651454 MWh
+Power demand between 17403 and 25239 MW
+Daily energy request for 20190414 : 472786.6242704648 MWh
+Power demand between 18637 and 27195 MW
+Daily energy request for 20190415 : 542159.6591687063 MWh
+Power demand between 19423 and 27023 MW
+Daily energy request for 20190416 : 550486.34817556 MWh
+Power demand between 19713 and 27903 MW
+Daily energy request for 20190417 : 551710.0574677931 MWh
+Power demand between 20056 and 29391 MW
+Daily energy request for 20190418 : 579399.0117278609 MWh
+Power demand between 19981 and 27828 MW
+Daily energy request for 20190419 : 565724.4952385825 MWh
+Power demand between 19082 and 25110 MW
+Daily energy request for 20190420 : 503127.8464558143 MWh
+Power demand between 16456 and 24495 MW
+Daily energy request for 20190421 : 464318.4269020461 MWh
+Power demand between 18431 and 28200 MW
+Daily energy request for 20190422 : 541407.2773681197 MWh
+Power demand between 19572 and 30097 MW
+Daily energy request for 20190423 : 581431.724296585 MWh
+Power demand between 20163 and 31173 MW
+Daily energy request for 20190424 : 607704.4289380533 MWh
+Power demand between 20618 and 30775 MW
+Daily energy request for 20190425 : 612260.8091406162 MWh
+Power demand between 20502 and 29295 MW
+Daily energy request for 20190426 : 590828.9858707591 MWh
+Power demand between 19825 and 26437 MW
+Daily energy request for 20190427 : 529006.8683614649 MWh
+Power demand between 18669 and 26426 MW
+Daily energy request for 20190428 : 502214.7397068996 MWh
+Power demand between 19212 and 27458 MW
+Daily energy request for 20190429 : 555350.0296612574 MWh
+Power demand between 19538 and 27422 MW
+Daily energy request for 20190430 : 555836.9741837184 MWh
+Monthly min power demand for month number 04 16456 MW at date 20190421
+Required reactors for min power: 9 with power of 14940 MW
+Monthly energy demand for month number 04 16219376.023580572
+Power demand between 19833 and 28026 MW
+Daily energy request for 20190501 : 553410.2103848929 MWh
+Power demand between 19859 and 28499 MW
+Daily energy request for 20190502 : 563132.1128600225 MWh
+Power demand between 20061 and 28009 MW
+Daily energy request for 20190503 : 564736.5304452622 MWh
+Power demand between 19513 and 26278 MW
+Daily energy request for 20190504 : 517551.04559566133 MWh
+Power demand between 17648 and 25512 MW
+Daily energy request for 20190505 : 484755.54669442243 MWh
+Power demand between 19177 and 27769 MW
+Daily energy request for 20190506 : 554367.8604103816 MWh
+Power demand between 19794 and 27899 MW
+Daily energy request for 20190507 : 562615.252422319 MWh
+Power demand between 19832 and 28267 MW
+Daily energy request for 20190508 : 574992.2794150506 MWh
+Power demand between 20161 and 27888 MW
+Daily energy request for 20190509 : 579497.6173557605 MWh
+demand = int(row[3]) did not contain a number in date 20190510 at row 287
+demand = int(row[3]) did not contain a number in date 20190510 at row 288
+demand = int(row[3]) did not contain a number in date 20190510 at row 289
+Power demand between 20098 and 26945 MW
+Daily energy request for 20190510 : 568842.3291228351 MWh
+Power demand between 19586 and 26142 MW
+Daily energy request for 20190511 : 516818.9878991818 MWh
+Power demand between 18530 and 26673 MW
+Daily energy request for 20190512 : 500761.3245882248 MWh
+Power demand between 19230 and 28602 MW
+Daily energy request for 20190513 : 566667.9665864065 MWh
+Power demand between 19906 and 28455 MW
+Daily energy request for 20190514 : 577296.3989025789 MWh
+Power demand between 20212 and 27599 MW
+Daily energy request for 20190515 : 579448.027490862 MWh
+Power demand between 19947 and 26246 MW
+Daily energy request for 20190516 : 550046.1659106946 MWh
+Power demand between 19550 and 25720 MW
+Daily energy request for 20190517 : 527730.0112800178 MWh
+Power demand between 18962 and 24785 MW
+Daily energy request for 20190518 : 506119.52540507505 MWh
+Power demand between 18247 and 24316 MW
+Daily energy request for 20190519 : 479464.8439601422 MWh
+Power demand between 18386 and 26090 MW
+Daily energy request for 20190520 : 519594.9543220224 MWh
+Power demand between 19315 and 26409 MW
+Daily energy request for 20190521 : 536437.8997568352 MWh
+Power demand between 19199 and 26330 MW
+Daily energy request for 20190522 : 535148.9674610101 MWh
+Power demand between 19398 and 26359 MW
+Daily energy request for 20190523 : 550594.9909871912 MWh
+Power demand between 19437 and 26047 MW
+Daily energy request for 20190524 : 528322.5080918658 MWh
+Power demand between 18258 and 24170 MW
+Daily energy request for 20190525 : 479182.6729752245 MWh
+Power demand between 18080 and 23034 MW
+Daily energy request for 20190526 : 469550.5947224708 MWh
+Power demand between 17601 and 24234 MW
+Daily energy request for 20190527 : 462374.2800624732 MWh
+Power demand between 18180 and 26884 MW
+Daily energy request for 20190528 : 527602.6581446319 MWh
+Power demand between 19292 and 27938 MW
+Daily energy request for 20190529 : 556421.497173203 MWh
+Power demand between 19742 and 28177 MW
+Daily energy request for 20190530 : 566725.1768418461 MWh
+Power demand between 20159 and 27887 MW
+Daily energy request for 20190531 : 572019.3559897391 MWh
+Monthly min power demand for month number 05 17601 MW at date 20190527
+Required reactors for min power: 10 with power of 16600 MW
+Monthly energy demand for month number 05 16632229.593258303
+Power demand between 19936 and 26424 MW
+Daily energy request for 20190601 : 534798.7188277647 MWh
+Power demand between 19049 and 26498 MW
+Daily energy request for 20190602 : 512336.774687708 MWh
+Power demand between 19417 and 29931 MW
+Daily energy request for 20190603 : 588415.0324583249 MWh
+Power demand between 20759 and 32709 MW
+Daily energy request for 20190604 : 635300.1556452176 MWh
+Power demand between 21612 and 33853 MW
+Daily energy request for 20190605 : 664457.05895654 MWh
+Power demand between 21752 and 30136 MW
+Daily energy request for 20190606 : 621543.2743810178 MWh
+Power demand between 20611 and 28219 MW
+Daily energy request for 20190607 : 580499.8131397247 MWh
+Power demand between 20305 and 28641 MW
+Daily energy request for 20190608 : 556162.8140629022 MWh
+Power demand between 19550 and 33530 MW
+Daily energy request for 20190609 : 590256.2582769066 MWh
+Power demand between 21559 and 41303 MW
+Daily energy request for 20190610 : 741730.7673464321 MWh
+Power demand between 23510 and 42639 MW
+Daily energy request for 20190611 : 787349.2628328667 MWh
+Power demand between 24468 and 39530 MW
+Daily energy request for 20190612 : 761167.6475476869 MWh
+Power demand between 22814 and 32825 MW
+Daily energy request for 20190613 : 666728.5071565609 MWh
+Power demand between 21714 and 30059 MW
+Daily energy request for 20190614 : 618506.9174425724 MWh
+Power demand between 21125 and 28083 MW
+Daily energy request for 20190615 : 570788.3365330413 MWh
+Power demand between 20059 and 27707 MW
+Daily energy request for 20190616 : 541771.8228707598 MWh
+Power demand between 20654 and 31485 MW
+Daily energy request for 20190617 : 626911.2599817599 MWh
+Power demand between 21764 and 33573 MW
+Daily energy request for 20190618 : 659403.053640344 MWh
+Power demand between 22008 and 33657 MW
+Daily energy request for 20190619 : 664762.6712471461 MWh
+Power demand between 22121 and 30085 MW
+Daily energy request for 20190620 : 631167.4957237939 MWh
+Power demand between 21062 and 28979 MW
+Daily energy request for 20190621 : 599169.3562024964 MWh
+Power demand between 20440 and 29454 MW
+Daily energy request for 20190622 : 572397.8091460682 MWh
+Power demand between 20270 and 31739 MW
+Daily energy request for 20190623 : 590097.1618085495 MWh
+Power demand between 21289 and 33426 MW
+Daily energy request for 20190624 : 653421.9066668018 MWh
+Power demand between 21538 and 30846 MW
+Daily energy request for 20190625 : 633441.2386640203 MWh
+Power demand between 21296 and 29764 MW
+Daily energy request for 20190626 : 609154.2823160737 MWh
+Power demand between 21147 and 29929 MW
+Daily energy request for 20190627 : 606483.6842109916 MWh
+Power demand between 21043 and 30334 MW
+Daily energy request for 20190628 : 611810.833918814 MWh
+Power demand between 20620 and 28918 MW
+Daily energy request for 20190629 : 578430.6625809739 MWh
+Power demand between 19912 and 30572 MW
+Daily energy request for 20190630 : 575748.8772272357 MWh
+Monthly min power demand for month number 06 19049 MW at date 20190602
+Required reactors for min power: 11 with power of 18260 MW
+Monthly energy demand for month number 06 18584213.4555011
+Power demand between 20455 and 33838 MW
+Daily energy request for 20190701 : 646055.1674815788 MWh
+Power demand between 21667 and 33261 MW
+Daily energy request for 20190702 : 651249.5666026821 MWh
+Power demand between 21908 and 31928 MW
+Daily energy request for 20190703 : 639206.6017436378 MWh
+Power demand between 21175 and 28979 MW
+Daily energy request for 20190704 : 573769.0887132144 MWh
+Power demand between 20800 and 32784 MW
+Daily energy request for 20190705 : 622654.8737144419 MWh
+Power demand between 21237 and 30977 MW
+Daily energy request for 20190706 : 602113.7417932749 MWh
+Power demand between 20546 and 28911 MW
+Daily energy request for 20190707 : 561867.8245381034 MWh
+Power demand between 20511 and 30347 MW
+Daily energy request for 20190708 : 610427.2066970561 MWh
+Power demand between 21257 and 32680 MW
+Daily energy request for 20190709 : 640741.1438533545 MWh
+Power demand between 22077 and 35099 MW
+Daily energy request for 20190710 : 676210.36750758 MWh
+Power demand between 22533 and 37228 MW
+Daily energy request for 20190711 : 705660.220311782 MWh
+Power demand between 23043 and 38465 MW
+Daily energy request for 20190712 : 723693.3000360513 MWh
+Power demand between 22941 and 36613 MW
+Daily energy request for 20190713 : 690126.0842296312 MWh
+Power demand between 21767 and 35729 MW
+Daily energy request for 20190714 : 661711.2887446621 MWh
+Power demand between 22478 and 39825 MW
+Daily energy request for 20190715 : 736752.9218158657 MWh
+Power demand between 23408 and 38138 MW
+Daily energy request for 20190716 : 729337.6762512216 MWh
+Power demand between 23174 and 37161 MW
+Daily energy request for 20190717 : 712968.3904706172 MWh
+Power demand between 22989 and 36627 MW
+Daily energy request for 20190718 : 707379.873551702 MWh
+Power demand between 22728 and 34280 MW
+Daily energy request for 20190719 : 677849.0374089043 MWh
+Power demand between 21878 and 32252 MW
+Daily energy request for 20190720 : 624104.0904699868 MWh
+Power demand between 21149 and 35145 MW
+Daily energy request for 20190721 : 637401.5673113547 MWh
+Power demand between 22630 and 40392 MW
+Daily energy request for 20190722 : 744700.279054252 MWh
+Power demand between 24620 and 42017 MW
+Daily energy request for 20190723 : 794698.5787548637 MWh
+Power demand between 24278 and 43143 MW
+Daily energy request for 20190724 : 807185.8486613902 MWh
+Power demand between 25297 and 42056 MW
+Daily energy request for 20190725 : 797552.124152338 MWh
+Power demand between 24874 and 42305 MW
+Daily energy request for 20190726 : 798733.6457448195 MWh
+Power demand between 24088 and 41597 MW
+Daily energy request for 20190727 : 758143.3763575966 MWh
+Power demand between 23329 and 39477 MW
+Daily energy request for 20190728 : 731216.1384160352 MWh
+Power demand between 23537 and 39816 MW
+Daily energy request for 20190729 : 748491.5303853928 MWh
+Power demand between 23563 and 37653 MW
+Daily energy request for 20190730 : 727694.6806570266 MWh
+Power demand between 23553 and 38573 MW
+Daily energy request for 20190731 : 730572.576443688 MWh
+Monthly min power demand for month number 07 20455 MW at date 20190701
+Required reactors for min power: 12 with power of 19920 MW
+Monthly energy demand for month number 07 21470268.811874107
+Power demand between 16190 and 45011 MW
+Min power demand global 16190 in date 20190324
+Max power demand global 45011 in date 20180809
+Min energy demand global 462374.2800624732 in date 20190527
+Max energy demand global 844722.4375473749 in date 20180809
+Total energy demand for the year considered: 217678077.8970246 MWh

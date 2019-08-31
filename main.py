@@ -103,6 +103,14 @@ for i in range(12):
                 plt.plot(X, Y, 'o', X, f(X), '--')
                 plt.legend(['data', 'cubic'], loc='best')
                 plt.show()
+            elif date == "20190101":
+                plt.plot(X, Y, 'o', X, f(X), '--')
+                plt.legend(['data', 'cubic'], loc='best')
+                plt.show()
+            elif date == "20190701":
+                plt.plot(X, Y, 'o', X, f(X), '--')
+                plt.legend(['data', 'cubic'], loc='best')
+                plt.show()
             energy = quad(f, 0, 23.83)[0]
             monthly_energy += energy
             yearly_energy += energy
