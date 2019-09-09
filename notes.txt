@@ -1,0 +1,16 @@
+North Italy:
+
+Valle d'Aosta
+Piemonte
+Liguria
+Lombardia
+Emilia Romagna
+Veneto
+Trentino Alto Adige
+Friuli Venezia Giulia
+
+Min load in the grid: 1.91 GW
+2 EPR III+ gen: 3.32 GW
+Daily: 79.68 GWh
+Yearly consumption: 34.11 TWh
+2 reactors: 29.08TWh (85.3%)
