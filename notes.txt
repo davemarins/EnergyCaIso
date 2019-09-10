@@ -13,15 +13,15 @@ Trentino Alto Adige
 Friuli Venezia Giulia
 
 Min load in the grid: 9.21 GW
-5 EPR III+ gen: 6.66 GW
-Daily: 159.84 GWh
-Yearly consumption: 176.71 TWh
-5 reactors: 58.34 TWh (33%)
+5 EPR III+ gen: 8.3 GW
+Daily: 199.2 GWh
+Yearly consumption: 176.76 TWh
+5 reactors: 72.71 TWh (41.1%)
 2 reactors in Trino (VC)
 3 reactors in Caorso (PC)
 
-Hypothesis: 1/3 nuclear 1/3 gas 1/3 hydro
-Result: 175 gCO2/kWh
+Hypothesis: 2/5 nuclear 2/5 gas 1/5 hydro
+Result: 206 gCO2/kWh
 North Italy is not windy and there's no so much
 space for large solar installation
 North Italy is densely populated, so power plants
@@ -29,5 +29,8 @@ are the best suitable solution
 Improvements in hydro power should be considered
 When baseload rises, Chioggia should be considered
 
-Goal: 1/3 nuclear 1/2 hydro 1/6 gas
-Result: 98 gCO2/kWh
+Goal: 3/5 nuclear 1/5 hydro 1/5 gas
+Result: 110 gCO2/kWh
+
+Perfect: 3/5 nuclear 2/5 hydro
+Result: 17 gCO2/kWh
