@@ -1,3 +1,7 @@
+Since PyPy doesn't support SciPy, it needs to be substituted
+with something else or go for C++. Moved to Numpy, from > 40
+seconds to just 4!
+
 North Italy:
 Valle d'Aosta
 Piemonte

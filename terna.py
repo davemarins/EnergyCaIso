@@ -1,7 +1,8 @@
 import csv
 # import matplotlib.pyplot as plt
-from scipy.interpolate import interp1d
-from scipy.integrate import quad
+# from scipy.interpolate import interp1d
+# from scipy.integrate import quad
+import numpy as np
 import time
 
 dt1 = time.time()
@@ -20,23 +21,6 @@ def find_min(array):
             result = value
     return result
 
-# Too slow
-def save_result(X, Y, monthly_energy, yearly_energy, result_file, current_date, date_hour):
-    f = interp1d(X, Y, kind='cubic')
-    """
-    if plot:
-        plt.plot(X, Y, 'o', X, f(X), '--')
-        plt.legend(['data', 'cubic'], loc='best')
-        plt.show()
-    """
-    energy = quad(f, 15.0, 1425.0)[0]
-    monthly_energy += energy
-    yearly_energy += energy
-    result_file.write(current_date + ',' + str(energy) + ',' + str(find_min(Y)) + ',' + str(find_max(Y)) + '\n')
-    X = []
-    Y = []
-    current_date = date_hour[0]
-
 yearly_energy = 0
 max_days = [31, 31, 30, 31, 30, 31, 31, 28, 31, 30, 31, 30]
 days = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16',
@@ -48,7 +32,7 @@ min_per_month = []
 for i in range(12):
     file_name = 'terna/' + years[i] + '-' + months[i] + '.csv'
     file = open(file_name, 'r')
-    result_file = open('result/out-' + years[i] + '-' + months[i] + '.csv', 'w')
+    result_file = open('result-numpy/out-' + years[i] + '-' + months[i] + '.csv', 'w')
     csv_reader = csv.reader(file, delimiter=',')
     header = True
     plot = False
@@ -66,14 +50,17 @@ for i in range(12):
                 current_date = date_hour[0]
             if date_hour[0] != current_date:
                 ########## ########## ########## ########## ##########
-                f = interp1d(X, Y, kind='cubic')
+                x_evaluation_dots = np.linspace(0, 24, 1000000)
+                f = np.interp(x_evaluation_dots, X, Y)
+                # f = interp1d(X, Y, kind='cubic')
                 """
                 if plot:
                     plt.plot(X, Y, 'o', X, f(X), '--')
                     plt.legend(['data', 'cubic'], loc='best')
                     plt.show()
                 """
-                energy = quad(f, 0.25, 23.75)[0]
+                energy = np.trapz(Y, x=X)
+                # energy = quad(f, 0.25, 23.75)[0]
                 monthly_energy += energy
                 yearly_energy += energy
                 result_file.write(current_date + ',' + str(energy/1000) + ',' + str(find_min(Y)) + ',' + str(find_max(Y)) + '\n')
@@ -91,14 +78,17 @@ for i in range(12):
                 if local_monthly_min > float(row[1]):
                     local_monthly_min = float(row[1])
     ########## ########## ########## ########## ##########
-    f = interp1d(X, Y, kind='cubic')
+    x_evaluation_dots = np.linspace(0, 24, 1000000)
+    f = np.interp(x_evaluation_dots, X, Y)
+    # f = interp1d(X, Y, kind='cubic')
     """
     if plot:
         plt.plot(X, Y, 'o', X, f(X), '--')
         plt.legend(['data', 'cubic'], loc='best')
         plt.show()
     """
-    energy = quad(f, 0.25, 23.75)[0]
+    energy = np.trapz(Y, x=X)
+    # energy = quad(f, 0.25, 23.75)[0]
     monthly_energy += energy
     yearly_energy += energy
     result_file.write(current_date + ',' + str(energy/1000) + ',' + str(find_min(Y)) + ',' + str(find_max(Y)) + '\n')
