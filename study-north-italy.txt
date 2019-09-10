@@ -1,0 +1,41 @@
+Average North Italian Family:
+
+176.76 TWh
+27.75M people
+6.37 MWh each
+
+2017 natual gas data from government
+61.55 Mtep total natural gas usage
+21.21 Mtep for electricity generation (34,5%)
+12.51 Mtep for industries (20.3%)
+24.09 Mtep for civilian uses (39.1%)
+
+0,868 tep each (civilian only)
+10.1 MWh each (civilian only)
+
+6.37 MWh each electricity
+25.8 Mwh each natural gas
+
+84% efficiency induction
+40% efficiency burning
+
+40.34 Mtep taken in consideration
+let's assume that all this gas is used for heating
+from burning to induction
+16.14 Mtep obtained from burning
+19.21 Mtep required electricity for the same purpose
+223.4 TWh required annually (+126.4% in electricity production)
+
+400.16 TWh yearly
+223.4 TWh are 75% base load 25% intermittent
+
+Current min load in the grid: 9.21 GW
+Current 5 EPR III+ gen: 8.3 GW
+72.71 TWh yearly
+
+300,12 TWh base load + 100,04 TWh intermittent
+20 reactors to be added
+
+Total base load: 25 reactors 41.5 GW
+363.54 TWh yearly from nuclear (63%)
+576.92 TWh yearly total demand
