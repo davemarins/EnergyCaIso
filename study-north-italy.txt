@@ -27,15 +27,17 @@ from burning to induction
 223.4 TWh required annually (+126.4% in electricity production)
 
 400.16 TWh yearly
-223.4 TWh are 75% base load 25% intermittent
+Assumption: 75% consumption for 2/3 of Italian GDP
+and 1/2 population with colder climate
+300.12 TWh yearly for North Italy
+Assumption: 75% base load 25% intermittent
+225.09 TWh base load from nuclear
++15 reactors
 
 Current min load in the grid: 9.21 GW
 Current 5 EPR III+ gen: 8.3 GW
 72.71 TWh yearly
 
-300,12 TWh base load + 100,04 TWh intermittent
-20 reactors to be added
-
-Total base load: 25 reactors 41.5 GW
-363.54 TWh yearly from nuclear (63%)
-576.92 TWh yearly total demand
+Total base load: 20 reactors 33.2 GW
+290.83 TWh yearly from nuclear (72.4%)
+401.85 TWh yearly total demand
