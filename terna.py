@@ -28,6 +28,7 @@ days = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', 
 months = ['07', '08', '09', '10', '11', '12', '01', '02', '03', '04', '05', '06']
 years = ['2018', '2018', '2018', '2018', '2018', '2018', '2019', '2019', '2019', '2019', '2019', '2019']
 min_per_month = []
+max_per_month = []
 
 for i in range(12):
     file_name = 'terna/' + years[i] + '-' + months[i] + '.csv'
@@ -38,6 +39,7 @@ for i in range(12):
     plot = False
     X = []
     Y = []
+    local_monthly_max = -1
     local_monthly_min = 999999999
     monthly_energy = 0
     current_date = 'empty'
@@ -65,6 +67,7 @@ for i in range(12):
                 yearly_energy += energy
                 result_file.write(current_date + ',' + str(energy/1000) + ',' + str(find_min(Y)) + ',' + str(find_max(Y)) + '\n')
                 min_per_month.append(local_monthly_min)
+                max_per_month.append(local_monthly_max)
                 X = []
                 Y = []
                 current_date = date_hour[0]
@@ -77,6 +80,8 @@ for i in range(12):
                 Y.append(float(row[1]))
                 if local_monthly_min > float(row[1]):
                     local_monthly_min = float(row[1])
+                if local_monthly_max < float(row[1]):
+                    local_monthly_max = float(row[1])
     ########## ########## ########## ########## ##########
     x_evaluation_dots = np.linspace(0, 24, 1000000)
     f = np.interp(x_evaluation_dots, X, Y)
@@ -100,6 +105,7 @@ for i in range(12):
     print('Monthly consumption of energy: ' + str(round((monthly_energy/1000000), 2)) + ' TWh\n')
 print('\nYearly consumption of energy: ' + str(round((yearly_energy/1000000), 2)) + ' TWh\n')
 print('Min load yearly: ' + str(find_min(min_per_month)) + ' MW\n')
+print('Max load yearly: ' + str(find_max(max_per_month)) + ' MW\n')
 dt2 = time.time()
 result = float(str((dt2 - dt1)))
 print('Script execution in ' + str(round(result, 2)) + ' seconds\n')
