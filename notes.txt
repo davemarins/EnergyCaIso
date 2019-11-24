@@ -2,7 +2,7 @@ Since PyPy doesn't support SciPy, it needs to be substituted
 with something else or go for C++. Moved to Numpy, from > 40
 seconds to just 4!
 
-North Italy:
+North:
 Valle d'Aosta
 Piemonte
 Liguria
@@ -12,25 +12,72 @@ Veneto
 Trentino Alto Adige
 Friuli Venezia Giulia
 
+Centre-North:
+Toscana
+Umbria
+Marche
+
+Centre-South:
+Lazio
+Campania
+Abruzzo
+
+South:
+Molise
+Puglia
+Basilicata
+Calabria
+
+Sicilia
+
+Sardegna
+
+-------------------- North --------------------
+
 Min load in the grid: 9.21 GW
+Yearly consumption: 176.76 TWh
 5 EPR III+ gen: 8.3 GW
 Daily: 199.2 GWh
-Yearly consumption: 176.76 TWh
 5 reactors: 72.71 TWh (41.1%)
 2 reactors in Trino (VC)
 3 reactors in Caorso (PC)
 
-Hypothesis: 2/5 nuclear 2/5 gas 1/5 hydro
-Result: 206 gCO2/kWh
-North Italy is not windy and there's no so much
-space for large solar installation
-North Italy is densely populated, so power plants
-are the best suitable solution
+Hypothesis: 2/5 nuclear 2/5 gas 1/5 hydro => Result: 206 gCO2/kWh
+North Italy is not windy and there's no so much space for large solar installation
+North Italy is densely populated, so power plants are the best suitable solution
 Improvements in hydro power should be considered
 When baseload rises, Chioggia should be considered
 
-Goal: 3/5 nuclear 1/5 hydro 1/5 gas
-Result: 110 gCO2/kWh
+-------------------- Centre-North --------------------
 
-Perfect: 3/5 nuclear 2/5 hydro
-Result: 17 gCO2/kWh
+Min load in the grid: 1.91 GW
+Yearly consumption: 34.12 TWh
+
+-------------------- Centre-South --------------------
+
+Min load in the grid: 2.53 GW
+Yearly consumption: 46.37 TWh
+
+-------------------- Centre-North + Centre-South --------------------
+
+Min load in the grid: 5.07 GW
+Yearly consumption: 80.49 TWh
+3 EPR III+ gen: 4.98GW
+Daily: 119.52GWh
+3 reactors: 43.62TWh (54.2%)
+3 reactors in Latina (LT)
+
+-------------------- South --------------------
+
+Min load in the grid: 1.87 GW
+Yearly consumption: 29.74 TWh
+
+-------------------- Sicilia --------------------
+
+Min load in the grid: 1.21 GW
+Yearly consumption: 18.9 TWh
+
+-------------------- Sardegna --------------------
+
+Min load in the grid: 0.39 GW
+Yearly consumption: 8.84 TWh

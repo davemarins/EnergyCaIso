@@ -36,7 +36,8 @@ Assumption: 75% base load 25% intermittent
 
 Current min load in the grid: 9.21 GW
 Current 5 EPR III+ gen: 8.3 GW
-72.71 TWh yearly
+72.71 TWh yearly from nuclear (41.1%)
+176.76 TWh yearly total demand
 
 Total base load: 20 reactors 33.2 GW
 290.83 TWh yearly from nuclear (72.4%)
