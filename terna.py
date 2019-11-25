@@ -36,7 +36,8 @@ days = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', 
 months = ['07', '08', '09', '10', '11', '12', '01', '02', '03', '04', '05', '06']
 years = ['2018', '2018', '2018', '2018', '2018', '2018', '2019', '2019', '2019', '2019', '2019', '2019']
 # zones = ['north', 'centre-north', 'centre-south', 'south', 'sicilia', 'sardegna']
-zones = ['north', 'centre', 'south', 'sicilia', 'sardegna']
+# zones = ['north', 'centre', 'south', 'sicilia', 'sardegna']
+zones = ['all']
 dt1 = time.time()
 
 for zone in zones:

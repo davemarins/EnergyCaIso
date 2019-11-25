@@ -81,3 +81,24 @@ Yearly consumption: 18.9 TWh
 
 Min load in the grid: 0.39 GW
 Yearly consumption: 8.84 TWh
+
+-------------------- CONCLUSIONS - REALITY --------------------
+
+8 EPR III+ gen reactors: 13,28GW
+Yearly consumption: 314.73 TWh
+8 reactors: 116.33 TWh (37%)
+
+-------------------- CONCLUSIONS - MINI REACTORS --------------------
+
+Hypothesis: 830MW small reactor
+Adding 2 reactors for South zone
+1.66GW installed (min 2 reactors installation)
+8 EPR III+ gen reactors + 2 small half EPR III+ gen power: 14.94 GW
+8 + 2 reactors: 130.87 TWh (41.6%)
+
+-------------------- CONCLUSIONS - COMPLETE UNIQUE GRID --------------------
+
+Yearly consumption: 314.73 TWh
+Min load on grid: 18.66 GW
+11 EPR III+ gen reactors: 18.26 GW
+11 reactors: 159.96 TWh (50.8%)

@@ -1,12 +1,10 @@
-import csv
-
 days = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16',
         '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31']
 months = ['07', '08', '09', '10', '11', '12', '01', '02', '03', '04', '05', '06']
 years = ['2018', '2018', '2018', '2018', '2018', '2018', '2019', '2019', '2019', '2019', '2019', '2019']
-region1 = 'centre-north'
-region2 = 'centre-south'
-region_result = 'centre'
+region1 = 'peninsula'
+region2 = 'islands'
+region_result = 'all'
 
 for i in range(12):
     file_region1 = open('terna/{}/{}-{}.csv'.format(region1, years[i], months[i]), 'r')
