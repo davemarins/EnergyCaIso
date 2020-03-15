@@ -35,14 +35,15 @@ days = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', 
         '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31']
 months = ['07', '08', '09', '10', '11', '12', '01', '02', '03', '04', '05', '06']
 years = ['2018', '2018', '2018', '2018', '2018', '2018', '2019', '2019', '2019', '2019', '2019', '2019']
-# zones = ['north', 'centre-north', 'centre-south', 'south', 'sicilia', 'sardegna']
+zones = ['north', 'centre-north', 'centre-south', 'south', 'sicilia', 'sardegna']
 # zones = ['north', 'centre', 'south', 'sicilia', 'sardegna']
-zones = ['all']
+# zones = ['all']
 dt1 = time.time()
 
 for zone in zones:
     yearly_energy = 0
     min_per_month = []
+    min_per_month_peak_solar = []
     max_per_month = []
     for i in range(12):
         file = open('terna/{}/{}-{}.csv'.format(zone, years[i], months[i]), 'r')
@@ -54,6 +55,7 @@ for zone in zones:
         Y = []
         local_monthly_max = -1
         local_monthly_min = 999999999
+        local_monthly_min_peak_solar = 999999999
         monthly_energy = 0
         current_date = None
         for row in csv_reader:
@@ -66,6 +68,7 @@ for zone in zones:
                     current_date = date_hour[0]
                 if date_hour[0] != current_date:
                     monthly_energy, yearly_energy, header_result = calculate_energy(X, Y, monthly_energy, yearly_energy, header_result, result_file)
+                    min_per_month_peak_solar.append(local_monthly_min_peak_solar)
                     min_per_month.append(local_monthly_min)
                     max_per_month.append(local_monthly_max)
                     X = []
@@ -77,6 +80,8 @@ for zone in zones:
                     timestamp = float(temp_value)
                     X.append(timestamp)
                     Y.append(float(row[1]))
+                    if int(hour[0]) >= 11 and int(hour[0]) < 15 and local_monthly_min_peak_solar > float(row[1]):
+                        local_monthly_min_peak_solar = float(row[1])
                     if local_monthly_min > float(row[1]):
                         local_monthly_min = float(row[1])
                     if local_monthly_max < float(row[1]):
@@ -88,6 +93,7 @@ for zone in zones:
         print('\nMonth: {} Year: {}'.format(months[i], years[i]))
         print('Monthly consumption of energy: {} TWh\n'.format(str(round((monthly_energy / 1000000), 2))))
     print('\nYearly consumption of energy for {}: {} TWh'.format(zone, str(round((yearly_energy / 1000000), 2))))
+    print('Min load yearly for peak solar: {} MW'.format(str(find_min(min_per_month_peak_solar))))
     print('Min load yearly: {} MW'.format(str(find_min(min_per_month))))
     print('Max load yearly: {} MW'.format(str(find_max(max_per_month))))
 dt2 = time.time()
